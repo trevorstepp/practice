@@ -1,2 +1,3 @@
 # Practice
-Code practice and code from project tutorials
+# Description
+This repository is for code from online tutorials and projects
